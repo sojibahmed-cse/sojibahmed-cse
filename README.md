@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sojib Ahmed
 - 👀 I’m interested in Problem Sloving
-- 🌱 I’m currently learning Problem Solving With C.
+- 🌱 I’m currently learning Data structure and algorithms.
 - 📫 How to reach me www.facebook.com/sojibahmed.cse
 
 <!---
